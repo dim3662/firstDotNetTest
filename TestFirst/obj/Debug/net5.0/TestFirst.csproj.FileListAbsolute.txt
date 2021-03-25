@@ -1,0 +1,16 @@
+C:\Users\User\RiderProjects\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.exe
+C:\Users\User\RiderProjects\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.deps.json
+C:\Users\User\RiderProjects\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.runtimeconfig.json
+C:\Users\User\RiderProjects\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.runtimeconfig.dev.json
+C:\Users\User\RiderProjects\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.dll
+C:\Users\User\RiderProjects\TestFirst\TestFirst\bin\Debug\net5.0\ref\TestFirst.dll
+C:\Users\User\RiderProjects\TestFirst\TestFirst\bin\Debug\net5.0\TestFirst.pdb
+C:\Users\User\RiderProjects\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.AssemblyInfo.cs
+C:\Users\User\RiderProjects\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.dll
+C:\Users\User\RiderProjects\TestFirst\TestFirst\obj\Debug\net5.0\ref\TestFirst.dll
+C:\Users\User\RiderProjects\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.pdb
+C:\Users\User\RiderProjects\TestFirst\TestFirst\obj\Debug\net5.0\TestFirst.genruntimeconfig.cache
